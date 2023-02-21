@@ -1,0 +1,21 @@
+*{
+     margin: 0;
+     padding: 0;
+
+}
+#root{
+     width:100%;
+   
+     padding: 15% 0;
+
+     
+}
+#change-btn{
+     margin: 0 auto;
+     display: block;
+     background-color: black;
+     color: white;
+     padding: 10px 15px;
+     border-radius: 6px;
+     cursor: pointer;
+}
